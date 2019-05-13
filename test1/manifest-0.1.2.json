@@ -1,0 +1,13 @@
+{
+    "name": "receipts",
+    "owner": "foo@bar.com",
+    "description": "My model does this",
+    "version": "0.1.2",
+    "base_image": "pytorch/pytorch:1.1.0-cuda10.0-cudnn7.5-runtime",
+    "ssl": false,
+    "auth": false,
+    "throttling": [],
+    "location": "models\\receipts",
+    "entry_module": "ML\\InformationExtraction\\receipts\\model_tag\\receipts",
+    "requirements_file": "models\\receipts\\requirements.txt" 
+}
