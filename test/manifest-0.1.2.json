@@ -1,5 +1,5 @@
 {
-    "name": "receipts",
+    "name": "uipath receipts",
     "owner": "foo@bar.com",
     "description": "My model does this",
     "version": "0.1.2",
@@ -7,7 +7,7 @@
     "ssl": false,
     "auth": false,
     "throttling": [],
-    "location": "models\\receipts",
+    "location": "C:\\UiPath\\models\\receipts",
     "entry_module": "ML\\InformationExtraction\\receipts\\model_tag\\receipts",
-    "requirements_file": "models\\receipts\\requirements.txt" 
+    "requirements_file": "requirements.txt" 
 }
