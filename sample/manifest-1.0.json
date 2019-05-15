@@ -1,0 +1,9 @@
+{
+    "name": "sample",
+    "owner": "uipath@uipath.com",
+    "version": "1.0",
+    "base_image": "python:3.6-slim",
+    "location": "C:\\UiPath\\models\\sample",
+    "entry_module": "sampleapp1\\sampleapp",
+    "requirements_file": "requirements.txt"
+}
