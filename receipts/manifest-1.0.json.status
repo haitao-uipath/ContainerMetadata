@@ -2,3 +2,4 @@ START	2019-05-16 15:03:59.872815	start processing receipts\manifest-1.0.json
 PREPARE_IMAGE	2019-05-16 15:04:09.858278	prepare image files of receipts\manifest-1.0.json
 BUILD_IMAGE	2019-05-16 15:04:17.528483	build image localhost:5000/receipts:1.0 for receipts\manifest-1.0.json
 PUBLISH_IMAGE	2019-05-16 15:04:36.420169	publish image localhost:5000/receipts:1.0
+SUCCEED	2019-05-16 15:04:52.781011	finish processing receipts\manifest-1.0.json, result SUCCEED
