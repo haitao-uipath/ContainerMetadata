@@ -1,3 +1,4 @@
 START	2019-05-16 14:43:13.610600	start processing receipts\manifest-1.0.json
 PREPARE_IMAGE	2019-05-16 14:43:20.355406	prepare image files of receipts\manifest-1.0.json
 BUILD_IMAGE	2019-05-16 14:43:27.959444	build image localhost:5000/receipts:1.0 for receipts\manifest-1.0.json
+PUBLISH_IMAGE	2019-05-16 14:43:43.212317	publish image localhost:5000/receipts:1.0
