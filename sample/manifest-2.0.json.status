@@ -1,3 +1,4 @@
 START	2019-05-17 12:37:57.936751	start processing sample\manifest-2.0.json
 PREPARE_IMAGE	2019-05-17 12:38:05.172670	prepare image files of sample\manifest-2.0.json
 BUILD_IMAGE	2019-05-17 12:38:11.866762	build image localhost:5000/sample:2.0 for sample\manifest-2.0.json
+PUBLISH_IMAGE	2019-05-17 12:40:15.176937	publish image localhost:5000/sample:2.0
