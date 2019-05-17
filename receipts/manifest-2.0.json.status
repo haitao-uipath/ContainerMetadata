@@ -1,5 +1,0 @@
-START	2019-05-17 10:25:24.196302	start processing receipts\manifest-2.0.json
-PREPARE_IMAGE	2019-05-17 10:25:30.948323	prepare image files of receipts\manifest-2.0.json
-BUILD_IMAGE	2019-05-17 10:25:38.461828	build image localhost:5000/receipts:2.0 for receipts\manifest-2.0.json
-PUBLISH_IMAGE	2019-05-17 10:25:56.306904	publish image localhost:5000/receipts:2.0
-SUCCEED	2019-05-17 10:26:14.149711	finish processing receipts\manifest-2.0.json, result SUCCEED
