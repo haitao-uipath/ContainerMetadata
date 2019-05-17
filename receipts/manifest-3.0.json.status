@@ -1,3 +1,0 @@
-START	2019-05-17 14:59:40.572694	start processing receipts\manifest-3.0.json
-PREPARE_IMAGE	2019-05-17 14:59:47.331656	prepare image files of receipts\manifest-3.0.json
-FAIL	2019-05-17 14:59:54.066592	Error: [WinError 5] Access is denied: '.build\\receipts\\.git\\objects\\00\\ddd831bb9951b8c1418b0f61b0a5c521cd12e6'
