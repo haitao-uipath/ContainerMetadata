@@ -1,9 +1,0 @@
-{
-    "name": "receipts",
-    "owner": "uipath@uipath.com",
-    "version": "4.0",
-    "base_image": "uipath/ai_base:2.0",
-    "location": "C:\\UiPath\\ML",
-    "entry_module": "ML\\InformationExtraction\\receipts\\model_tag\\receipts",
-    "requirements_file": "ML\\InformationExtraction\\receipts\\model_tag\\requirements.txt"
-}
